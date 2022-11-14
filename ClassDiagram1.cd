@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Booking_System.Booking_System.login" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAAgAACAgABAAAACCCAECAAQkgAAAAQAIAgBQAAA=</HashCode>
+      <FileName>Booking_System\login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Booking_System.Booking_System.registration" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEwAiEACAAABABAIKCAAECAAQAAAAFAAAAAgBAQAA=</HashCode>
+      <FileName>Booking_System\registration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Booking_System.Booking_System.welcome" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>4BwBTgAAACggADAQQECAQgACAAECABAIAIAAARBAAAA=</HashCode>
+      <FileName>Booking_System\welcome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
